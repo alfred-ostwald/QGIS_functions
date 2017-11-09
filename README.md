@@ -8,3 +8,5 @@ equivalents to run in QGIS.
 
 After some performance testing I found that for this particular dataset (which wasn't very large) the timings between MapInfo
 and QGIS were pretty similar.
+
+Will add some more detailed descriptions soon!
